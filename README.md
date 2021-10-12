@@ -1,4 +1,4 @@
 # meagan-writes-life-website
-get-em-girl-van-and-lifestyle-blog
-creating an informational blog for solo women traveling and overlanding in their vehicles, offering tips from personal experience through story-telling
+personal-blog
+creating a portfolio of writings with storytelling, both fictional and autobiographical, with information for anyone and multiple topics
 coded in HTML, CSS, Javascript
